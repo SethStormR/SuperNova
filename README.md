@@ -1,4 +1,7 @@
 # SuperNova
+![5770af121ff09761f15c4daaa5b934e8d22a822e](https://user-images.githubusercontent.com/60283532/220596833-fdb8a194-fb3d-408f-b576-4ef963a0144f.png)
+
+
 SuperNova is a text based icon theme for Gnome.
 
 Screenshots
