@@ -1,7 +1,7 @@
 # SuperNova
 
 
-SuperNova is a text based icon theme for Gnome.![SuperNovaBanner](https://github.com/SethStormR/SuperNova/assets/60283532/ce63377d-dc5a-44f8-9d1e-e439f3b291ad)
+![SuperNovaBanner](https://github.com/SethStormR/SuperNova/assets/60283532/ce63377d-dc5a-44f8-9d1e-e439f3b291ad)
 Super Nova Icon Theme will soon be available for Gnome, XFCE, Deepin and Budgie DE. Many different colors will be available to use from Bronze to Pink.
 
 
